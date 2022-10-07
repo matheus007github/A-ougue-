@@ -1,0 +1,16 @@
+body {
+    background: rgb(161, 0, 0)
+}
+
+h1{
+    color: rgb(255, 255, 255); text-align:center
+}
+
+p {
+        text-align:center; color: rgb(255, 255, 255)
+}
+
+em strong {
+ color: rgb(255, 217, 1)
+}
+
